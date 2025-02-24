@@ -1,7 +1,3 @@
-Hier ist eine überarbeitete README mit einer besseren Beschreibung, mehr Keywords für Sichtbarkeit auf GitHub und einer klaren Struktur:  
-
----
-
 # Remove-Brand-Logo 🚀  
 _Automatically remove brand logos and unwanted slides from PDFs_  
 
@@ -47,7 +43,3 @@ Need to clean up university slides? This script helps by removing distracting lo
 
 ## Disclaimer  
 This script is for **personal and educational use only**. Please respect copyright laws when modifying documents.  
-
----
-
-Diese Version nutzt mehr **relevante Keywords**, hat eine **klare Struktur**, und enthält mehr **Suchbegriffe für GitHub**, damit dein Repository besser gefunden wird. Soll ich noch weitere Anpassungen vornehmen? 😊
